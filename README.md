@@ -1,6 +1,6 @@
 # aio
-Tis repository will have all my AI Object regonitiondetails
-$ Instellation on ubuntu 22.04
+Tis repository will have all my AI Object regonitiondetails<br>
+# Instellation on ubuntu 22.04
   
     sudo apt update && sudo apt upgrade
     sudo apt install python3
