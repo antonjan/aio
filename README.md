@@ -1,5 +1,5 @@
 # aio
-Tis repository will have all my AI Object regonitiondetails<br>
+This repository will have all my AI Object regonition details<br>
 # Instellation on ubuntu 22.04
   
     sudo apt update && sudo apt upgrade
