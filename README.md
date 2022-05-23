@@ -8,7 +8,7 @@ This repository will have all my AI Object regonition details<br>
     nvidia-settings
     sudo apt install nvidia-settings
     nvidia-settings
-    #using the autodetected nvia driver 
+    #using the autodetected nvia driver  NVIDIA-Linux-x86_64-450.57
 # Installing the NVIDIA driver
     I was using the 
     sudo apt update && sudo apt upgrade
