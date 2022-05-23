@@ -40,7 +40,10 @@ This repository will have all my AI Object regonition details<br>
    git clone https://github.com/tensorflow/tensorflow.git
    #get coffie ....
    cd tensorflow
-   git checkout branch_name  #2.9
+   git checkout branch_name 2.9
+   #installing cuda 11.2
+   wget https://developer.download.nvidia.com/compute/cuda/11.2.2/local_installers/cuda_11.2.2_460.32.03_linux.run
+   sudo sh cuda_11.2.2_460.32.03_linux.run
    ./configure
    
 
