@@ -1,7 +1,16 @@
 # aio
 This repository will have all my AI Object regonition details<br>
 # Instellation on ubuntu 22.04
-  
+    ubuntu-drivers devices
+    nvidia-smi
+    uname -r
+    nvidia-smi
+    nvidia-settings
+    sudo apt install nvidia-settings
+    nvidia-settings
+    #using the autodetected nvia driver 
+# Installing the NVIDIA driver
+    I was using the 
     sudo apt update && sudo apt upgrade
     sudo apt install python3
     sudo apt install python3-pip
@@ -32,6 +41,7 @@ This repository will have all my AI Object regonition details<br>
    #get coffie ....
    cd tensorflow
    git checkout branch_name  #2.9
+   ./configure
    
 
 
